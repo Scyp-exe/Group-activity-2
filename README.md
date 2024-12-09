@@ -1,5 +1,4 @@
 <h1>Open-source intelligence (OSINT)</h1>
-<h6>Click "View raw" within each lab to download labs.</h6>
 <h2>Description</h2>
 Through this activity, my group dived into some of the tools that OSINT provides and uses. I was actually a bit surprised at the amount of information that OSINT can be used to gather. We primiarily focused on the three topics below, but it could be used even further for loss prevents, monitoring events, and webscraping.
 <h1>Techniques</h1>
